@@ -51,5 +51,6 @@ Power BI: Dashboard creation & reporting
 Jupyter Notebook: For EDA & workflow documentation
 
 Dashboard Preview :  
-
+![alt](https://github.com/divyaPrakash2004/Ola-Dashboard/blob/main/Ola%20screenshot.png)
+https://github.com/divyaPrakash2004/Ola-Dashboard/blob/main/Ola%20screenshot.png
 
