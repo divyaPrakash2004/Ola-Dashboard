@@ -2,7 +2,7 @@
 This project presents an end-to-end data analysis pipeline for Ola rides, built using SQL, Excel, Python, Jupyter Notebook, and Power BI.
 The goal is to analyze ride trends, customer behavior, and revenue insights, and present them in an interactive Power BI dashboard for decision-making.
 
-Features :  
+#Features :  
 
 Data Collection & Cleaning:
 
@@ -34,11 +34,9 @@ Power BI Dashboard:
 
 Interactive dashboard for business users
 
-Key KPIs: Total Rides, Revenue, Avg. Trip Distance, Peak Booking Hours, Top Cities
-
 Filters & slicers for dynamic exploration
 
-Tech Stack
+#Tech Stack
 
 Python: Pandas, NumPy, Matplotlib, Seaborn
 
@@ -50,7 +48,7 @@ Power BI: Dashboard creation & reporting
 
 Jupyter Notebook: For EDA & workflow documentation
 
-Dashboard Preview :  
+#Dashboard Preview :  
 ![alt](https://github.com/divyaPrakash2004/Ola-Dashboard/blob/main/Ola%20screenshot.png)
 https://github.com/divyaPrakash2004/Ola-Dashboard/blob/main/Ola%20screenshot.png
 
