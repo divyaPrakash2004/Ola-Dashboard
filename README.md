@@ -38,7 +38,7 @@ Filters & slicers for dynamic exploration
 
 # Tech Stack
 
-Python: Pandas, NumPy, Matplotlib, Seaborn
+Python: Pandas, NumPy, Matplotlib
 
 SQL: MySQL / PostgreSQL (for data queries & joins)
 
