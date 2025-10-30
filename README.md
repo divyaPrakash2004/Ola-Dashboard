@@ -10,7 +10,7 @@ Raw ride data processed using Python (Pandas, NumPy)
 
 Missing values handled, duplicates removed, and data transformed for analysis
 
-Data Storage & Querying:
+Data Storage & Querying: 
 
 Structured tables created in SQL for easy querying
 
