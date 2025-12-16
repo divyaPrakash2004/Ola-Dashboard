@@ -36,7 +36,7 @@ Interactive dashboard for business users
 
 Filters & slicers for dynamic exploration
 
-# Tech Stack
+# Tech Stack 
 
 Python: Pandas, NumPy, Matplotlib
 
